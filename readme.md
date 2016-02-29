@@ -41,4 +41,4 @@ cake compile-watch
 
 ## Credit
 
-This TodoMVC application was created by [Evan You](http://evanyou.me).
+This TodoMVC application was created by [Evan You](http://evanyou.me) and ported by Anton Felix Lorenzen.
